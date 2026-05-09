@@ -1,7 +1,7 @@
 # Hi, I'm Adedamola 👋
 
 # Brand Name (MoCreativeConcept)
-Product Designer focused on building clean, functional, and user-centered digital experiences.
+Product Designer + Strategist focused on building clean, functional, and user-centered digital experiences.
 
 I design and ship modern web experiences that combine UI/UX thinking with frontend execution. My work focuses on creating intuitive products, scalable interfaces, and conversion-driven digital solutions.
 
