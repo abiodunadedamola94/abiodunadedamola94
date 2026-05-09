@@ -140,7 +140,7 @@ Process highlights:
 ## 📫 Connect With Me
 - Portfolio: https://mocreativeportfolio.lovable.app/
 - GitHub: https://github.com/abiodunadedamola94
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/abiodun-adedamola-605398289?trk=contact-info
 
 ---
 
